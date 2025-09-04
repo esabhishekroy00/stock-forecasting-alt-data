@@ -1,0 +1,18 @@
+
+---
+
+# 📦 requirements.txt  
+
+```txt
+pandas
+yfinance
+sqlalchemy
+psycopg2-binary
+prophet
+transformers
+torch
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
